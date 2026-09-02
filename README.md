@@ -1,7 +1,5 @@
 ![GitHub Banner](github_banner.png)
-<div align="center">
-  <img src="github_banner.png" alt="GitHub Banner">
-</div>
+
 
 <!--
 **Rakib304832/Rakib304832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
