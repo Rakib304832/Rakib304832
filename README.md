@@ -1,13 +1,13 @@
 ![GitHub Banner](github_banner.png)
 
-<h1 align="center">Hi 👋, I'm Aminul islam</h1>
+<h1 align="center">Hi 👋, I'm Rakib </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Future+Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+TypeScript;JavaScript+%7C+Node.js+%7C+MongoDB;Creating+Scalable+Digital+Products;Clean+UI+%26+Modern+UX;Problem+Solver+%26+Developer"/>
 
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Rakib Hassan**, a passionate **Future Full Stack Developer** from Bangladesh 🇧🇩.
+Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 🇧🇩.
 
 - 🎓 Currently pursuing a **Diploma in Computer Science & Technology**
 - 💻 Building modern and responsive web applications
@@ -16,8 +16,11 @@ Hi! I'm **Rakib Hassan**, a passionate **Future Full Stack Developer** from Bang
 - 🧠 Passionate about **problem solving and clean UI/UX**
 - 🔨 Building projects to strengthen my **Full Stack Development** skills
 - 🌱 Continuously learning and improving my development skills
-- 🤝 Open to **collaboration, open-source projects & learning opportunities**
-- ⚡ Fun fact: I love **football ⚽** and turning ideas into web applications
+- 🤝 Open to **collaboration, open-source projects & learning opportunities*
+-  🌐 Hold **CCNA** and **MTCNA (MikroTik)** certifications — I understand systems from the network layer up to the browser
+- 🔐 Hands-on with cybersecurity fundamentals (TryHackMe, SOC concepts, recon tooling)
+- ✍️ I write code that explains **why**, not just what — clarity over cleverness, always
+- 🚀 Open to internships, freelance work, and collaborative full-stack projects
 
 ---
 
@@ -61,6 +64,14 @@ Hi! I'm **Rakib Hassan**, a passionate **Future Full Stack Developer** from Bang
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
+
+## Networking & Security
+<br/>
+<img src="https://skillicons.dev/icons?i=python" /> &nbsp;
+![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![MTCNA](https://img.shields.io/badge/MTCNA-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 
 
 # 🐍 CONTRIBUTION SNAKE
