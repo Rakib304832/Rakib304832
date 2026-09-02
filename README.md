@@ -66,9 +66,9 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 </p>
 
 ## Networking & Security
-<br/>
-<img src="https://skillicons.dev/icons?i=python" /> &nbsp;
-<img src="https://skillicons.dev/icons?i=kali" width="60" height="60" alt="Kali Linux"/>
+<p align="center"
+<img src="https://skillicons.dev/icons?i=python,kali" /> &nbsp;
+</p>
 
 
 
