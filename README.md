@@ -68,7 +68,7 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 ## Networking & Security
 <br/>
 <img src="https://skillicons.dev/icons?i=python" /> &nbsp;
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+<img src="<img src="https://skillicons.dev/icons?i=kali" width="60" height="60" alt="Kali Linux"/>
 
 
 
@@ -82,11 +82,6 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminulislamdev&show_icons=true&locale=en&layout=compact" alt="aminulislamdev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminulislamdev&show_icons=true&locale=en" alt="aminulislamdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminulislamdev&" alt="aminulislamdev" /></p>
 
 # 📚 Learning Journey
 
