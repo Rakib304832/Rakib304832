@@ -27,13 +27,13 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 # 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:aminulislam424842@gmail.com">
+  <a href="h.rakib0000000000@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aminulislamjs/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aminulislamjs" height="40" width="30" /></a>
+  <a href="" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aminulislamjs" height="40" width="30" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/aminulislamdev" target="_blank">
+  <a href="https://github.com/Rakib304832" target="_blank">
     <img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub"/>
   </a>
 </p>
@@ -68,9 +68,9 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 ## Networking & Security
 <br/>
 <img src="https://skillicons.dev/icons?i=python" /> &nbsp;
-![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![MTCNA](https://img.shields.io/badge/MTCNA-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/MTCNA-293239?style=for-the-badge&logo=mikrotik&logoColor=white">
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
 
 
 
