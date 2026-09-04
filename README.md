@@ -31,7 +31,7 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
-  <a href="" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aminulislamjs" height="40" width="30" /></a>
+  <a href="https://www.linkedin.com/in/rakib-hassan-955184434?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aminulislamjs" height="40" width="30" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/Rakib304832" target="_blank">
     <img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub"/>
