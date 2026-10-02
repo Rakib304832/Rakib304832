@@ -100,8 +100,8 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib304832&repo=Sign-up-Sign-in&theme=radical" alt="Sign-up-Sign-in" />
   </a>
   <!-- দ্বিতীয় প্রজেক্ট: YOUR-REPO-NAME বদলে আপনার রিপোজিটরির আসল নাম দিন -->
-  <a href="https://github.com/Rakib304832/YOUR-REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib304832&repo=YOUR-REPO-NAME&theme=radical" alt="Project 2" />
+  <a href="https://github.com/Rakib304832/gym">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib304832&repo=gym&theme=radical" alt="Project 2" />
   </a>
 </p>
 
