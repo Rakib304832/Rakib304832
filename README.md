@@ -70,7 +70,14 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
   <img src="https://skillicons.dev/icons?i=python,kali" />
 </p>
 
+# 🔥 GitHub Streak
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=sakibhossainrahim&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 # 🐍 CONTRIBUTION SNAKE
 
