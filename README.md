@@ -80,7 +80,7 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rakib304832&query=$.followers&label=Followers&color=purple&style=for-the-badge" alt="Followers" />
 </p>
 
-<h2 align="center">🔥 GitHub Streak</h2>
+<h2 align="center"></h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Rakib304832&theme=dark" alt="GitHub Streak" />
 </p>
