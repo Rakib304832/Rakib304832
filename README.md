@@ -71,35 +71,29 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 </p>
 
 # 🔥 GitHub Streak
-<!-- ১. শিরোনাম: align="center" = মাঝখানে দেখাবে -->
-<h1 align="center">হ্যালো, আমি Rakib 👋</h1>
-<p align="center">Full Stack Web Developer হওয়ার পথে | CST শিক্ষার্থী | Networking ও Web Development</p>
 
-<!-- ২. GitHub আইকন + ব্যাজ -->
 <p align="center">
-  <!-- skillicons.dev থেকে GitHub আইকন, আপনার বাকি আইকনের মতোই দেখাবে -->
-  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
-  <!-- &logo=github মুছে দিয়েছি, কারণ আইকন এখন আলাদাভাবে আছে -->
+ 
+  <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" />
+  
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rakib304832&query=$.public_repos&label=Repositories&color=blue&style=for-the-badge" alt="Repos" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rakib304832&query=$.followers&label=Followers&color=purple&style=for-the-badge" alt="Followers" />
 </p>
 
-<!-- ৩. স্ট্রিক কার্ড: কন্ট্রিবিউশন ও স্ট্রিক দেখায় -->
 <h2 align="center">🔥 GitHub Streak</h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Rakib304832&theme=dark" alt="GitHub Streak" />
 </p>
 
-<!-- ৪. স্ট্যাটস ও ভাষা কার্ড: পাশাপাশি বসবে -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <!-- show_icons = আইকন, include_all_commits = সব সময়ের কমিট, count_private = প্রাইভেট কাজ গোনা -->
+
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rakib304832&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <!-- layout=compact = ছোট বার-চার্ট, কোন ভাষায় কাজ বেশি -->
+
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib304832&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- ৫. সেরা প্রজেক্ট: repo= এর পরে রিপোজিটরির নাম। আরও চাইলে একই ধরনের লাইন কপি করুন -->
+
 <h2 align="center">🚀 My Projects</h2>
 <p align="center">
   <a href="https://github.com/Rakib304832/Sign-up-Sign-in">
