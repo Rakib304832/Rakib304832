@@ -75,10 +75,13 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 <h1 align="center">হ্যালো, আমি Rakib 👋</h1>
 <p align="center">Full Stack Web Developer হওয়ার পথে | CST শিক্ষার্থী | Networking ও Web Development</p>
 
-<!-- ২. ব্যাজ: রিপোজিটরি সংখ্যা ও ফলোয়ার, GitHub API থেকে নিজে আপডেট হয় -->
+<!-- ২. GitHub আইকন + ব্যাজ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rakib304832&query=$.public_repos&label=Repositories&color=blue&style=for-the-badge&logo=github" alt="Repos" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rakib304832&query=$.followers&label=Followers&color=purple&style=for-the-badge&logo=github" alt="Followers" />
+  <!-- skillicons.dev থেকে GitHub আইকন, আপনার বাকি আইকনের মতোই দেখাবে -->
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
+  <!-- &logo=github মুছে দিয়েছি, কারণ আইকন এখন আলাদাভাবে আছে -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rakib304832&query=$.public_repos&label=Repositories&color=blue&style=for-the-badge" alt="Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rakib304832&query=$.followers&label=Followers&color=purple&style=for-the-badge" alt="Followers" />
 </p>
 
 <!-- ৩. স্ট্রিক কার্ড: কন্ট্রিবিউশন ও স্ট্রিক দেখায় -->
@@ -108,12 +111,7 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
   </a>
 </p>
 
-<!-- ৬. যোগাযোগ: লিংকগুলো আপনার নিজের দিয়ে বদলান -->
-<h2 align="center">📬 Connect with me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+
 
 # 🐍 CONTRIBUTION SNAKE
 
