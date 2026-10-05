@@ -115,11 +115,20 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 
 ---
 
-## Networking & Security
+### Networking & Security
 <p>
   <img src="https://skillicons.dev/icons?i=python,kali"  />
 </p>
 
+## Where you find me
+<p herf>
+  <p>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"> 
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
+  </p>
+</p>
 # 🔥 GitHub Streak
 
 <p align="center">
