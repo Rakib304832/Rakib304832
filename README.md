@@ -129,7 +129,7 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
   </a>
 </p>
-## 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <p align="center">
  
