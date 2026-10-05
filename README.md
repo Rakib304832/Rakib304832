@@ -121,15 +121,15 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 </p>
 
 ## Where you find me
-<p herf>
-  <p>
+<p >
+  <a href="https://bd.linkedin.com/in/rakib-hassan-3aa624440">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"> 
-  </p>
-  <p>
+  </a>
+  <a href="https://x.com/HRaki46262">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
-  </p>
+  </a>
 </p>
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
  
