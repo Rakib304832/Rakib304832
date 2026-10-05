@@ -24,19 +24,6 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 
 ---
 
-# 📫 Connect With Me
-
-<p align="center">
-  <a href="h.rakib0000000000@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/mwlite/profile/in/rakib-hassan-3aa624440" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aminulislamjs" height="40" width="30" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Rakib304832" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub"/>
-  </a>
-</p>
 
 ## 🌱 Currently Learning
 
@@ -129,8 +116,8 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 ---
 
 ## Networking & Security
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kali" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,kali" width="50" />
 </p>
 
 # 🔥 GitHub Streak
