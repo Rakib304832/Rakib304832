@@ -147,8 +147,6 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rakib304832&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
-
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib304832&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
