@@ -139,13 +139,15 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rakib304832&query=$.followers&label=Followers&color=purple&style=for-the-badge" alt="Followers" />
 </p>
 
-<h2 align="center"></h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rakib304832&theme=dark" alt="GitHub Streak" />
-</p>
-
 <h2 align="center">📊 GitHub Stats</h2>
-
+<!-- Top Languages কার্ড: কোন কোন ভাষায় কত শতাংশ কোড লেখা হয়েছে তা দেখায় -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true"
+    
+    alt="Top Languages"
+  />
+</p>
 
 
 <h2 align="center">🚀 My Projects</h2>
