@@ -140,6 +140,22 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=Rakib304832&show_icons=true&theme=tokyonight&hide_border=true"
+height="165"
+alt="GitHub Statistics"
+/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib304832&theme=tokyonight&hide_border=true"
+height="165"
+alt="GitHub Streak"
+/>
+
+</div>
+
 
 <!-- Top Languages কার্ড: কোন ভাষায় কত শতাংশ কোড তা দেখায় -->
 <p align="center">
