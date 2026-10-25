@@ -207,3 +207,47 @@ HTML → CSS → JavaScript
        Full Stack Developer 🚀
 
 ```
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 💡 RANDOM DEV QUOTE                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+
+<br/>
+
+<a href="https://github.com/red1-for-hek">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="60%"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌟 FOOTER                                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+  <img src="./assets/footer.svg" width="100%"/>
+  
+  <br/>
+  
+  <!-- ☕ BUY ME A COFFEE -->
+  <a href="https://buymeacoffee.com/redoyanul1y" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+  
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=footer"/>
+  
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📝 END OF README                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
