@@ -140,6 +140,25 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  Repositories: 21 &nbsp;|&nbsp; Followers: 1
+</p>
+
+<div align="center">
+  <img src="https://your-stats.vercel.app/api?username=Rakib304832&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
+  <img src="https://your-streak.vercel.app/?user=Rakib304832&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</div>
+
+<p align="center">
+  <img src="https://your-stats.vercel.app/api/top-langs/?username=Rakib304832&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<h2 align="center">🚀 My Projects</h2>
+<p align="center">
+  <a href="https://github.com/Rakib304832/Sign-up-Sign-in">
+    <img src="https://your-stats.vercel.app/api/p…
+
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
 
 <img
