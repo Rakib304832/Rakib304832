@@ -139,10 +139,6 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rakib304832&query=$.followers&label=Followers&color=purple&style=for-the-badge" alt="Followers" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  Repositories: 21 &nbsp;|&nbsp; Followers: 1
-</p>
 
 <div align="center">
   <img src="https://your-stats.vercel.app/api?username=Rakib304832&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
@@ -174,26 +170,6 @@ alt="GitHub Streak"
 />
 
 </div>
-
-
-<!-- Top Languages কার্ড: কোন ভাষায় কত শতাংশ কোড তা দেখায় -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib304832&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<h2 align="center">🚀 My Projects</h2>
-<p align="center">
-  <a href="https://github.com/Rakib304832/Sign-up-Sign-in">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib304832&repo=Sign-up-Sign-in&theme=radical" alt="Sign-up-Sign-in" />
-  </a>
-  <!-- দ্বিতীয় প্রজেক্ট: YOUR-REPO-NAME বদলে আপনার রিপোজিটরির আসল নাম দিন -->
-  <a href="https://github.com/Rakib304832/gym">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib304832&repo=gym&theme=radical" alt="Project 2" />
-  </a>
-</p>
 
 
 
