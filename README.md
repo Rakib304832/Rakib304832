@@ -141,12 +141,6 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 
 
 <div align="center">
-  <img src="https://your-stats.vercel.app/api?username=Rakib304832&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
-  <img src="https://your-streak.vercel.app/?user=Rakib304832&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</div>
-
-
-
 
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib304832&theme=tokyonight&hide_border=true"
