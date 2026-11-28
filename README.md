@@ -118,7 +118,7 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 - Email: [h.rakib0000000000@gmail.com](mailto:h.rakib0000000000@gmail.com)
 - LinkedIn: [Rakib Hassan](https://bd.linkedin.com/in/rakib-hassan-3aa624440) — [ADD: confirm LinkedIn profile URL]
 - Portfolio: [rakibwebsite.netlify.app](https://rakibwebsite.netlify.app/)
-- Resume: [ADD: resume/CV URL]
+- Resume: [ADD: resume/CV URL](https://drive.google.com/file/d/1LZLQoKoBg5sHCrw3LqMfPVCqgCXJFhtG/view?usp=sharing)
 - GitHub: [Rakib304832](https://github.com/Rakib304832)
 
 ### Where you find me
