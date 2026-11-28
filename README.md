@@ -95,14 +95,16 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 
 ## Featured Projects
 
-| Project | Description | Tech used | Live link | Repo link |
-|---|---|---|---|---|
-| Sign-up-Sign-in | Full-stack Next.js and TypeScript app with Better Auth and MongoDB sign-up/sign-in. | Next.js, TypeScript, MongoDB, Better Auth | [ADD: live URL] | [Sign-up-Sign-in](https://github.com/Rakib304832/Sign-up-Sign-in) |
-| NextBlog-Ul | Blog application built with Next.js and TypeScript. | Next.js, TypeScript | [ADD: live URL] | [NextBlog-Ul](https://github.com/Rakib304832/NextBlog-Ul) |
-| User_API_from_Database- | REST API for user data with CRUD operations. | Node.js, Express, MongoDB | [ADD: live URL / API base URL] | [User_API_from_Database-](https://github.com/Rakib304832/User_API_from_Database-) |
-| Salon app | Client interface and TypeScript server for a salon application. | HTML, TypeScript | [ADD: live URL] | [salon-client](https://github.com/Rakib304832/salon-client) / [Salon-server-site](https://github.com/Rakib304832/Salon-server-site) |
-| portfolio-website | Portfolio website built with TypeScript. | TypeScript | [ADD: live URL] | [portfolio-website](https://github.com/Rakib304832/portfolio-website) |
-
+| Project | Type | Repo | Live link |
+|---|---|---|---|
+| User Manager | Full stack (Next.js + Express 5) | [Backend_project_with_UI](https://github.com/Rakib304832/Backend_project_with_UI) | https://scintillating-parfait-c51647.netlify.app/ |
+| SalonBook | Client | [salon-client](https://github.com/Rakib304832/salon-client) | https://salonbook-client-pi.vercel.app |
+| SalonBook | Server | [Salon-server-site](https://github.com/Rakib304832/Salon-server-site) | https://salonbook-server-rakib-299e.vercel.app |
+| StudioSpace | Client | [client-site-ui](https://github.com/Rakib304832/client-site-ui) | https://client-site-ui.vercel.app/ |
+| StudioSpace | Server (API) | [server-site](https://github.com/Rakib304832/server-site) | https://server-site-c05uc0dgq-rakib-299e.vercel.app/api/studios |
+| BazarDor | Full stack | [Assignment-7](https://github.com/Rakib304832/Assignment-7) | https://bazordo.netlify.app |
+| FitLog | Full stack | [gym](https://github.com/Rakib304832/gym) | https://remarkable-tiramisu-1f6f4a.netlify.app/workout |
+| DevStack | Full stack | [Assignment-5](https://github.com/Rakib304832/Assignment-5) | https://teal-dragon-0cccab.netlify.app |
 ---
 
 ## Currently Focused On
@@ -116,9 +118,9 @@ Hi! I'm **Rakib**, a passionate **Future Full Stack Developer** from Bangladesh 
 ## Let's Connect
 
 - Email: [h.rakib0000000000@gmail.com](mailto:h.rakib0000000000@gmail.com)
-- LinkedIn: [Rakib Hassan](https://bd.linkedin.com/in/rakib-hassan-3aa624440) — [ADD: confirm LinkedIn profile URL]
+- LinkedIn: [Rakib Hassan](https://bd.linkedin.com/in/rakib-hassan-3aa624440)
 - Portfolio: [rakibwebsite.netlify.app](https://rakibwebsite.netlify.app/)
-- Resume: [ADD: resume/CV URL](https://drive.google.com/file/d/1LZLQoKoBg5sHCrw3LqMfPVCqgCXJFhtG/view?usp=sharing)
+- Resume: [View resume](https://drive.google.com/file/d/1LZLQoKoBg5sHCrw3LqMfPVCqgCXJFhtG/view?usp=sharing)
 - GitHub: [Rakib304832](https://github.com/Rakib304832)
 
 ### Where you find me
